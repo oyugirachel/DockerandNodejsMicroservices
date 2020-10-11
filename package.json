@@ -1,0 +1,47 @@
+{
+  "name": "stateless-microservice",
+  "version": "1.0.0",
+  "description": "stateless microservice in Nodejs...",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "test": "nyc mocha"
+  },
+  "author": "fidel mumbere",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^5.0.0",
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "cookie-parser": "^1.4.4",
+    "debug": "^2.6.9",
+    "dotenv": "^6.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^5.3.1",
+    "fast-json-patch": "^2.2.0",
+    "flatted": "^2.0.1",
+    "image-downloader": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^5.2.0",
+    "morgan": "^1.9.1",
+    "node-gyp": "^5.0.7",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.4",
+    "serve-favicon": "^2.4.5",
+    "sharp": "^0.20.8",
+    "superagent": "^3.8.3",
+    "supertest": "^3.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "nyc": "^14.1.1"
+  }
+}
