@@ -5,7 +5,7 @@ const request = require('supertest')
 const app = require('../app')
 
 
-describe('HackerBay Stateless Microservice', () => {
+describe('Umoja Stateless Microservice', () => {
 
   // Create dummy login data
   const loginDetails = { username: 'someone', password: 'awesome' }
