@@ -18,13 +18,13 @@ To get up and running:
 
 **1.** Clone the repo.
 ```
-git clone https://github.com/oyugirachel/NodejsStatelessMicroservice
+git clone https://github.com/oyugirachel/DockerandNodejsMicroservices
 .git
 ```
 
 **2.**  ```cd``` into repo. Use the same directory name(below) if you do not change it.
 ```
-cd NodejsStatelessMicroservice
+cd DockerNodejsMicroservices
 ```
 
 **3.**  Setup the application by installing its dependencies with
