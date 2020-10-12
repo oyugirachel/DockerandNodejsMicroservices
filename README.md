@@ -113,7 +113,7 @@ Now, simply place the command nyc in front of your existing test command in pack
 
 ## Logging
 
-All logs are saved in ```hackerbay.log``` in the application's root.
+All logs are saved in ```Umoja.log``` in the application's root.
 
 
 ## Built With
