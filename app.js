@@ -13,7 +13,7 @@ const api = require('./routes/features')
 const app = express()
 
 // Create a write stream
-const accessLogStream = fs.createWriteStream(path.join(__dirname, 'hackerbay.log'), {flags: 'a'})
+const accessLogStream = fs.createWriteStream(path.join(__dirname, 'Umoja.log'), {flags: 'a'})
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'))
