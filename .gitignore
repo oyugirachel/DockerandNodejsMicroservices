@@ -1,1 +1,4 @@
 node_modules
+
+# Environment files — added by ZenGuard
+.env*
