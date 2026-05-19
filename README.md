@@ -51,7 +51,7 @@ This is a mock authentication so you can pass in any username or password to log
  {
     "user": "moi",
     "authorized": true,
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1vaSIsImlhdCI6MTUzMjAwNDkwMSwiZXhwIjoxNTMyMDI2NTAxfQ.sonItbpZ_yKsRLDXNfDqwN6yN5VbdMVDhgKAMxDmPFY"
+    "token": "<REDACTED_JWT_TOKEN>"
 }
  ```
 
